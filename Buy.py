@@ -5,5 +5,5 @@ import requests
 
 bit = platform.architecture()[0]
 if bit == '64bit':
-    from Crack import majn
+    from Buy import majn
     Crack()
